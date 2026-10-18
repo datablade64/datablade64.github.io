@@ -1,0 +1,9 @@
+title: datablade64
+description: >-
+  AI and embedded systems projects.
+url: https://datablade64.github.io
+baseurl: ""
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
